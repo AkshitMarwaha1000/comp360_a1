@@ -1,0 +1,9 @@
+# Godot-specific
+.import/
+.godot/
+logs/
+shader_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
