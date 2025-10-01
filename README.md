@@ -23,9 +23,11 @@ The terrain is built with a grid mesh and heightmap driven by fractal noise.
 
 ## Screenshots
 Example run with parameters listed above:
+### Screenshot 1 – Generated Terrain
+![Terrain Screenshot](docs/screenshot1.png)
 
-![Terrain Screenshot](screenshot1.png)
-
+### Screenshot 2 – Godot Editor with Parameters
+![Editor Screenshot](docs/screenshot2.png)
 ## Notes
 - Default values are set for reproducibility (Seed = 1337).  
 - Increasing `Img Size` (e.g., 256) produces higher detail but requires more compute.  
